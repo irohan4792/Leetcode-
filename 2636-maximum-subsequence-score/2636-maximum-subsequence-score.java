@@ -2,6 +2,8 @@ class Solution {
   public long maxScore(int[] nums1, int[] nums2, int k) {
     long ans = 0;
     long sum = 0;
+
+
     Pair<Integer, Integer>[] A = new Pair[nums1.length];
     Queue<Integer> minHeap = new PriorityQueue<>();
     for (int i = 0; i < nums1.length; ++i)
