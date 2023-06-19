@@ -1,7 +1,7 @@
 class Solution {
     public int largestAltitude(int[] gain) {
         int altitude = 0;
-        int maxalt = -99999;
+        int maxalt = 0;
         for(int i = 0 ; i < gain.length ; i++){
             altitude += gain[i];
             if(altitude>maxalt){
