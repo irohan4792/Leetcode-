@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/irohan4792/Leetcode-/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/irohan4792/Leetcode-/tree/master/0013-roman-to-integer) |
+| [1796-second-largest-digit-in-a-string](https://github.com/irohan4792/Leetcode-/tree/master/1796-second-largest-digit-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/irohan4792/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/irohan4792/Leetcode-/tree/master/0014-longest-common-prefix) |
+| [1796-second-largest-digit-in-a-string](https://github.com/irohan4792/Leetcode-/tree/master/1796-second-largest-digit-in-a-string) |
 ## Trie
 |  |
 | ------- |
